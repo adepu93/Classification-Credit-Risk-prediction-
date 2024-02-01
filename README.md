@@ -15,4 +15,5 @@ Compared the results to recommend the best Classification
 model
 
 colab link : https://colab.research.google.com/drive/1c5TOHkBsj7YhxHObA33Rb0pNImBQNqKf#scrollTo=l2zwKn0Y_noy
+
 and ppt link : https://1drv.ms/p/c/52c2b478ce9f83b4/EcXI4m_fGD1MtrZV0W2kI4UBl0nN993sLAreGQ4VPQeCEQ?e=qaK1pH
